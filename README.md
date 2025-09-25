@@ -19,3 +19,5 @@ Polymorphism (extendable) – search can be overloaded<br>
 Java (Core, OOP concepts)<br>
 ArrayList for data storage<br>
 Scanner for user input (CLI-based interface)
+<h2>Execution Of Code</h2>
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/ea1dbf4a-d5e9-42ec-b0bd-247e711b0886" />
